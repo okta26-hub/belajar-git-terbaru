@@ -1,0 +1,3 @@
+test all git
+hoke test git
+
